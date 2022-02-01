@@ -1,0 +1,39 @@
+.body {
+  background-color: #0f72aa;
+  text-align: center;
+  height: 55rem;
+}
+
+#logo {
+  width: 450px;
+  height: 380px;
+  margin-top: 50px;
+}
+
+h1 {
+  color: white;
+  font-family: TypoProSemiBold;
+  font-size: 60pt;
+  font-weight: bold;
+}
+
+h2 {
+  color: white !important;
+  font-family: TypoProSemiBold;
+  padding-top: 25px;
+}
+
+.socialLogo {
+  margin-top: 25px;
+}
+
+h3 {
+  color: white;
+  font-family: TypoProSemiBold;
+}
+
+@font-face {
+  font-family: "TypoProSemiBold";
+  src: local("TypoProSemiBold"),
+    url(../fonts/TypoProSemiBold.ttf) format("truetype");
+}

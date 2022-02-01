@@ -1,0 +1,71 @@
+.Jeugdhuis {
+  text-align: left;
+  overflow-x: hidden;
+}
+
+.Openhuis {
+  text-align: right !important;
+  overflow-x: hidden;
+}
+
+.Zaal {
+  background-image: url(../images/openhuis/zaal.jpg) !important;
+  background-size: cover;
+  width: 100% !important;
+  height: 55rem !important;
+}
+
+.Zaal a {
+  color: white !important;
+  font-family: TypoProLight;
+}
+
+.Slider {
+  margin-bottom: 25px;
+}
+
+.Slider img {
+  margin-left: -175px;
+}
+
+.Verhuren h2,
+.Fotos h2 {
+  color: #000 !important;
+  font-family: TypoProSemiBold;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+a {
+  color: #000 !important;
+  font-family: TypoProLight;
+}
+
+.Jeugdhuis .footer {
+  background-color: white !important;
+  text-align: center;
+}
+
+.Jeugdhuis .footer a {
+  color: black !important;
+}
+
+.Openhuis .footer {
+  background-color: white !important;
+  text-align: center;
+}
+
+.Openhuis .footer a {
+  color: black !important;
+}
+
+@font-face {
+  font-family: "TypoProSemiBold";
+  src: local("TypoProSemiBold"),
+    url(../fonts/TypoProSemiBold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "TypoProLight";
+  src: local("TypoProLight"), url(../fonts/TypoProLight.ttf) format("truetype");
+}

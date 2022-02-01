@@ -1,0 +1,40 @@
+.nav {
+  background-color: #0f72aa;
+  height: 75px;
+}
+
+.nav a {
+  color: white !important;
+  font-size: 23pt !important;
+  text-decoration: none;
+  font-family: TypoProSemiBold;
+  margin-right: 50px;
+}
+
+.dropdown-menu {
+  background-color: #0f72aa !important;
+  border-radius: 25px !important;
+  border: 1px solid rgb(243, 243, 243) !important;
+}
+
+.body .footer {
+  background-color: #0f72aa;
+  font-family: TypoProSemiBold;
+  text-align: center;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 46px;
+  line-height: 46px;
+}
+
+.body .footer a {
+  color: white !important;
+  font-family: TypoProSemiBold;
+}
+
+@font-face {
+  font-family: "TypoProSemiBold";
+  src: local("TypoProSemiBold"),
+    url(./assets/fonts/TypoProSemiBold.ttf) format("truetype");
+}
