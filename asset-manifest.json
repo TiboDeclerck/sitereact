@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sitereact/static/css/main.4a93e094.css",
+    "main.js": "/sitereact/static/js/main.2b67df1e.js",
+    "static/media/LogoJOB.png": "/sitereact/static/media/LogoJOB.7f46f68da2200d575ab9.png",
+    "static/media/zaal.jpg": "/sitereact/static/media/zaal.be9ddd46df1dbfa09175.jpg",
+    "static/media/zaal 6.jpg": "/sitereact/static/media/zaal 6.9a35941c4346bd35d045.jpg",
+    "static/media/zaal 1.jpg": "/sitereact/static/media/zaal 1.881cb44b423f990f9d2f.jpg",
+    "static/media/zaal 3.jpg": "/sitereact/static/media/zaal 3.19c44438e7377cbf3a3d.jpg",
+    "static/media/zaal 2.jpg": "/sitereact/static/media/zaal 2.fd7f5c66f71d9586ba5b.jpg",
+    "static/media/zaal 4.jpg": "/sitereact/static/media/zaal 4.46a1e4de2c3ee01edf40.jpg",
+    "static/media/zaal 5.jpg": "/sitereact/static/media/zaal 5.de4d7143ee61e7e3f8f3.jpg",
+    "static/media/TypoProSemiBold.ttf": "/sitereact/static/media/TypoProSemiBold.9862a5d041d0b264fcb9.ttf",
+    "static/media/TypoProLight.ttf": "/sitereact/static/media/TypoProLight.3560508b78def84c8cf7.ttf",
+    "static/media/slick.svg": "/sitereact/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sitereact/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sitereact/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sitereact/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sitereact/index.html",
+    "main.4a93e094.css.map": "/sitereact/static/css/main.4a93e094.css.map",
+    "main.2b67df1e.js.map": "/sitereact/static/js/main.2b67df1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a93e094.css",
+    "static/js/main.2b67df1e.js"
+  ]
+}
